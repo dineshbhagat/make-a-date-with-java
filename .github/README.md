@@ -31,3 +31,5 @@
 
 
 [**Make a Date with Java**]: https://docs.google.com/presentation/d/1iZZA0kTi3noP2wdnpHZLzHReynnBJ_yCSNmzqQPt_ew/edit?usp=sharing
+
+![](https://github.com/dineshbhagat/make-a-date-with-java/blob/9f0e166925ea5b05bc733b62c5696b0fab34a4b8/.github/Make-a-Date-with-Java.pdf)
